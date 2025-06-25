@@ -1,12 +1,12 @@
 React Vite + Tailwind CSS v4 Starter
 This is a React + Vite project styled with **Tailwind CSS v4**, built as part of the PLP MERN Stack Development program.
-
-Currently, two official plugins are available:
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
   
   Screenshot of the page:
-![image](https://github.com/user-attachments/assets/df30931b-af14-4980-bf53-06287825edba)
+  1. home page:
+![Screenshot (257)](https://github.com/user-attachments/assets/67e87249-f730-459c-8349-a5e343bb75ad)
+2. About page:
+   ![Screenshot (258)](https://github.com/user-attachments/assets/8b456025-db22-4b22-ac09-b64a6e49abfe)
+
 
 Prerequisites
 - Node.js v18 or later
